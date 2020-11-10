@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
         Debug.Log("Mr. Suter was here");
         Debug.Log("BV");
         Debug.Log("MJ");
-        Debug.Log("LA");
+        Debug.Log("LA edit3 branch");
 
 
     }
