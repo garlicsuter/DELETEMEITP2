@@ -10,9 +10,10 @@ public class PlayerController : MonoBehaviour
         Debug.Log("Mr. Suter was here 11/9/2020 and 11/10/20");
         Debug.Log("BJ was here");
         Debug.Log("Mr. Suter was here");
-        Debug.Log("BV");
+        Debug.Log("BV 11/10");
         Debug.Log("MJ");
         Debug.Log("LA edit3 branch");
+
 
 
     }
